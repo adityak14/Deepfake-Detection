@@ -6,7 +6,7 @@ To tackle this issue, we have devised a novel approach that combines Convolution
 
 Deepfake video detection is an essential endeavor in safeguarding against the spread of misinformation and preserving the integrity of visual content in various domains, including journalism, entertainment, and social media. By deploying advanced neural network architectures like CNNs and RNNs, researchers and developers are continuously striving to enhance detection techniques to combat the growing threat posed by deepfake technology.
 
-## Table of Contents
+## Tech stack used
 
 1. PyTorch
 2. Numpy
